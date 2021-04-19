@@ -1,0 +1,41 @@
+{
+  "ver": 1,
+  "se": {
+    "3": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/03-countdown.mp3"
+    },
+    "4": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/04-tanimura_0009b_Win2.wav"
+    },
+    "5": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/05-tanimura_0001_win.wav"
+    },
+    "11": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/11-List.mp3"
+    },
+    "25": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/25-tanimura_0006_Pon.wav"
+    },
+    "27": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/27-tanimura_0007_Kan.wav"
+    },
+    "29": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/29tanimura_0005_Chii.wav"
+    },
+    "31": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/31-tanimura_0008_Riichi.wav"
+    },
+    "33": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/33-tanimura_0002_Ron.wav"
+    },
+    "35": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/35-game_majan_tanimura_0003_Tsumo.wav"
+    },
+    "40": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/40-tanimura_0002_Start4.wav"
+    },
+    "41": {
+      "url": "https://raw.githubusercontent.com/nyakochan0921/Nyako/master/41-tanimura_0021_Yakuman.wav"
+    }
+  }
+}
