@@ -1,0 +1,16 @@
+{
+  "ver":1.0,
+  "se":{
+    "3":{"url":"https://github.com/nyakochan0921/Nyako/blob/main/03-countdown.mp3"},
+    "4":{"url":"https://github.com/nyakochan0921/Nyako/blob/main/04-tanimura_0009b_Win2.wav"},
+    "5":{"url":"https://github.com/nyakochan0921/Nyako/blob/main/05-tanimura_0001_win.wav"},
+    "11":{"url":"https://github.com/nyakochan0921/Nyako/blob/main/11-List.mp3"},
+    "27":{"url":"https://github.com/nyakochan0921/Nyako/blob/main/27-tanimura_0007_Kan.wav"},
+    "29":{"url":"https://github.com/nyakochan0921/Nyako/blob/main/29tanimura_0005_Chii.wav"},
+    "31":{"url":"https://github.com/nyakochan0921/Nyako/blob/main/31-tanimura_0008_Riichi.wav"},
+    "33":{"url":"https://github.com/nyakochan0921/Nyako/blob/main/33-tanimura_0002_Ron.wav"},
+    "35":{"url":"https://github.com/nyakochan0921/Nyako/blob/main/35-game_majan_tanimura_0003_Tsumo.wav"}, 
+    "40":{"url":"https://github.com/nyakochan0921/Nyako/blob/main/40-tanimura_0002_Start4.wav"},
+    "41":{"url":"https://github.com/nyakochan0921/Nyako/blob/main/41-tanimura_0021_Yakuman.wav"}
+  }
+}
